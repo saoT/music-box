@@ -1,0 +1,43 @@
+/* ************************ DIV CONTAINER ************************ */
+
+#container{
+	display: flex;
+	flex-direction: row; /* Pas d'effet danc ce cas */
+	justify-content: space-around;
+	align-items: center; /* Pas d'effet, ni align-content */
+	width: 100%;
+	height: 600px;
+}
+
+/* ************************ CLASS BOX **************************** */
+
+.box {
+	width: 150px;
+	height: 300px;
+}
+
+/* ************************ COLOR ******************************** */
+
+.yellow {
+	background-color: #ECFF5D;
+}
+
+.orange {
+	background-color: #F7E74F;
+}
+
+.red {
+	background-color: #FB818B;
+}
+
+.purple {
+	background-color: #C987C9;
+}
+
+.blue {
+	background-color: #99B7EB;
+}
+
+.green {
+	background-color: #87E180;
+}
