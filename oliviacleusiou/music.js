@@ -12,14 +12,14 @@ var violet = document.getElementById('violet');
 var bleu = document.getElementById('bleu');
 var vert = document.getElementById('vert');
 
-function music (sound){
+function music(sound){
   sound.currentTime = 0;
   sound.play()
 }
 
-  jaune.music(a);
-  orange.music(b);
-  rose.music(c);
-  violet.music(d);
-  bleu.music(e);
-  vert.music(f);
+  jaune.onclick = music(a);
+  orange.onclick = music(b);
+  rose.onclick = music(c);
+  violet.onclick = music(d);
+  bleu.onclick = music(e);
+  vert.onclick = music(f);
