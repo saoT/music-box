@@ -1,0 +1,62 @@
+#piano {
+	display: flex;
+	flex-direction: row;
+}
+.do{
+
+	position: relative;
+	margin-left: 10px;
+	width: 100px;
+	height:300px;
+	margin-top: 20px;
+	background-color: red;
+}
+
+.ré{
+
+	position: relative;
+	margin-left: 10px;
+	width: 100px;
+	height:300px;
+	margin-top: 20px;
+	background-color: blue;
+}
+
+.mi{
+
+	position: relative;
+	margin-left: 10px;
+	width: 100px;
+	height:300px;
+	margin-top: 20px;
+	background-color: orange;
+}
+
+.fa{
+
+	position: relative;
+	margin-left: 10px;
+	width: 100px;
+	height:300px;
+	margin-top: 20px;
+	background-color: green;
+}
+
+.so{
+	position: relative;
+	margin-left: 10px;
+	width: 100px;
+	height:300px;
+	margin-top: 20px;
+	background-color: yellow;
+}
+
+.la{
+
+	position: relative;
+	margin-left: 10px;
+	width: 100px;
+	height:300px;
+	margin-top: 20px;
+	background-color: pink;
+}
