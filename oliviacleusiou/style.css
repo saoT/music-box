@@ -1,0 +1,33 @@
+#container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#container div {
+  width : 150px;
+  height : 300px;
+}
+
+#jaune {
+  background-color: #f1c40f;
+}
+
+#orange {
+  background-color: #f39c12;
+}
+
+#rose {
+  background-color: #e74c3c;
+}
+
+#violet {
+  background-color: #9b59b6;
+}
+
+#bleu {
+  background-color: #3498db;
+}
+
+#vert {
+  background-color: #2ecc71;
+}
