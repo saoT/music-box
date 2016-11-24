@@ -1,0 +1,41 @@
+body{
+  background-color:black;
+}
+#conteneur{
+  height:200px;
+  position:relative;
+}
+
+#block{
+  position:absolute;
+  bottom:0px;
+   left: 30%;
+  width:100%;
+  display:block;
+}
+.block{
+  border-radius: 20px;
+  display:inline-block;
+  height:110px;
+  width:70px;
+  cursor:pointer;
+  margin:1px;
+}
+.red{
+  background-color: red;
+}
+.orange{
+	 background-color: orange;
+}
+.yellow{
+	background-color: yellow;
+}
+.green{
+	 background-color: green;
+}
+.blue{
+	 background-color: blue;
+}
+.indigo{
+	 background-color: #6633FF;
+}
