@@ -1,0 +1,58 @@
+body{
+  background-color:white;
+}
+#box{
+  height:200px;
+  position:relative;
+
+}
+
+#sounds{
+  position:absolute;
+  bottom:0px;
+   left: 40%;
+  width:400px;
+ 
+  display:block;
+  
+}
+
+.click{
+  background-color:green;
+  display:inline-block;
+  height:90px;
+  width:50px;
+  cursor:pointer;
+  margin:1px;
+
+  
+}
+
+.yellow{
+  background-color: red;
+}
+
+.orange{
+   background-color: orange;
+}
+
+.pink{
+  background-color: yellow;
+}
+
+
+.purple{
+   background-color: green;
+}
+
+.blue{
+   background-color: blue;
+}
+
+.green{
+   background-color: #6633FF;
+}
+
+  
+
+
