@@ -1,0 +1,49 @@
+#p1{
+	position: absolute;
+	background-image: url('/home/nassou/Bureau/nasserdine/image/1.png');
+	width: 100px;
+	height: 200;
+	top:250px;
+	left: 250px;
+
+}
+#p2{
+	position: absolute;
+	background-image: url('/home/nassou/Bureau/nasserdine/image/2.png');
+	width: 100px;
+	height: 200;
+	top:250px;
+	left: 400px;
+}
+#p3{
+	position: absolute;
+	background-image: url('/home/nassou/Bureau/nasserdine/image/3.png');
+	width: 100px;
+	height: 200;
+	top:250px;
+	left: 550px;
+}
+#p4{
+	position: absolute;
+	background-image: url('/home/nassou/Bureau/nasserdine/image/4.png');
+	width: 100px;
+	height: 200;
+	top:250px;
+	left: 700px;
+}
+#p5{
+	position: absolute;
+	background-image: url('/home/nassou/Bureau/nasserdine/image/5.png');
+	width: 100px;
+	height: 200;
+	top:250px;
+	left: 850px;
+}
+#p6{
+	position: absolute;
+	background-image: url('/home/nassou/Bureau/nasserdine/image/6.png');
+	width: 100px;
+	height: 200;
+	top:250px;
+	left: 1000px;
+}

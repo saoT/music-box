@@ -1,0 +1,67 @@
+#contener{
+	position: relative;
+	width: 600px;
+	height: 800px;
+	left: 300px;
+	top: 100px;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.jaune{
+	background-color: yellow;
+	height: 300px;
+	width: 200px;
+	margin: 20px;
+	
+	border:2px solid white;
+}
+
+.orange{
+	background-color:orange; 
+	height: 300px;
+	width: 200px;
+	margin: 20px;
+	
+	border:2px solid white;
+
+}
+
+.rose{
+	background-color: pink; 
+	height: 300px;
+	width: 200px;
+	margin: 20px;
+	
+	border:2px solid white;
+
+}
+
+.violet{
+	background-color: violet;
+	height: 300px;
+	width: 200px;
+	margin: 20px;
+	
+	border:2px solid white;
+}
+
+.bleu{
+	background-color: blue;
+	height: 300px;
+	width: 200px;
+	margin: 20px;
+	
+	border:2px solid white;
+
+}
+
+.vert{
+	background-color: green;
+	height: 300px;
+	width: 200px;
+	margin: 20px;
+	
+	border:2px solid white;
+}
