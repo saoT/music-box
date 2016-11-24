@@ -1,0 +1,29 @@
+#keyboard{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.el{
+	width: 180px;
+	height:400px;
+}
+
+.A{
+	background-color: lightyellow;
+}
+.B{
+	background-color: lightsalmon;
+}
+.C{
+	background-color: lightpink;
+}
+.D{
+	background-color: plum;
+}
+.E{
+	background-color: lightblue;
+}
+.F{
+	background-color: lightgreen;
+}
