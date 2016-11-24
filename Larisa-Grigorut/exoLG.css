@@ -1,0 +1,39 @@
+.container {
+	width: 100%;
+	height: 650px; 
+	border: 2px solid black;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.proportions {
+	width: 120px;
+	height: 300px;
+/*	border: 2px solid black;*/
+	margin: auto;
+}
+
+#yellow {
+	background-color: #FAF370;
+}
+
+#orange {
+	background-color: #FFD663;
+}
+
+#pink {
+	background-color: #F58D90;
+}
+
+#purple{
+	background-color: #C19BC8;
+}
+
+#blue{
+	background-color: #94C2E9;
+}
+
+#green {
+	background-color: #9DD086;
+}
