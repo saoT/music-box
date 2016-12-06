@@ -1,10 +1,10 @@
 **My music box**
 ===================
 
-Git clone ce repository.  
-Crées un dossier avec ton projet.  
-Nommes ce dossier avec ton prénom **ET** ton nom de famille ainsi : "prenom-nom".  
-**Ne mets pas d'accent !**
+> Git clone ce repository.  
+> Crées un dossier avec ton projet.  
+> Nommes ce dossier avec ton prénom **ET** ton nom de famille ainsi : "prenom-nom".  
+> **Ne mets pas d'accent !**
 
 ### **Fais au moins 1 des 3 exercices suivants :**
 
