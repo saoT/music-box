@@ -12,7 +12,7 @@
 
 - Reproduit en html et css le keyboard suivant :  
 
-![enter image description here](https://gitlab.com/montreuil-p6/music-box/raw/0a4c468511c278880c595d2cc7d97a1cba225e04/img/keyboard.png)
+![enter image description here](https://raw.githubusercontent.com/simplonco/music-box/master/img/keyboard.png)
 
 Tu trouveras dans le dossier sound/strings des samples de musique.  
 Fais en sorte qu'en cliquant sur chaque rectangle un sample différent soit joué.    
